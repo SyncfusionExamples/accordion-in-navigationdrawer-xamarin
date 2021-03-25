@@ -1,2 +1,1 @@
-# accordion-in-navigationdrawer-xamarin
-How to use SfAccordion in SfNavigationDrawer in Xamarin.Forms
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12480/how-to-use-sfaccordion-in-sfnavigationdrawer-in-xamarin-forms)**
